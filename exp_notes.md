@@ -1,14 +1,2 @@
-\# MLflow Deney Notları
-
-
-
-\- 3 farklı hiperparametre kombinasyonu ile deneyler gerçekleştirildi.
-
-\- Deneyler MLflow üzerinde kaydedildi.
-
-\- En iyi run\_id `best\_run.txt` dosyasında tutulmaktadır.
-
-\- Deneylerin ekran görüntüsü ve artifact linkleri bu dosyada paylaşılacaktır.
-
-
-
+En iyi run linki:
+http://localhost:5000/#/experiments/0/runs/5fb05a3e59524e4886ac67abb1ae1dbd
