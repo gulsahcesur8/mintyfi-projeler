@@ -1,0 +1,11 @@
+text,label
+"Bu ürün harika, bayıldım!",positive
+Kesinlikle tavsiye ederim.,positive
+Berbat bir deneyimdi.,negative
+"Çok kötü, hiç beğenmedim.",negative
+"Fena değil, idare eder.",neutral
+Çok güzel bir kaliteye sahip.,positive
+"Yine alırım, memnun kaldım.",positive
+İade etmek zorunda kaldım.,negative
+"Kötü kargo, paket yırtıktı.",negative
+"Harika, hızlı teslimat!",positive
