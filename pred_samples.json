@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Bu ürün gerçekten harika!",
+    "prediction": "Olumlu"
+  },
+  {
+    "text": "Hiç memnun kalmadım.",
+    "prediction": "Olumlu"
+  },
+  {
+    "text": "Fena değil ama daha iyilerini gördüm.",
+    "prediction": "Olumlu"
+  },
+  {
+    "text": "Muhteşem bir alışverişti.",
+    "prediction": "Olumlu"
+  },
+  {
+    "text": "Berbat bir kalite, asla tavsiye etmem.",
+    "prediction": "Olumlu"
+  }
+]
